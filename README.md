@@ -1,85 +1,198 @@
+<div align="center">
+
 # 👋 Hi, I'm Nitin Sheoran
 
-### 🎓 B.Tech CSE — Data Science | 💻 Developer | 📊 Data Science Enthusiast
+### 🎓 B.Tech CSE | 📊 Data Science | 💻 Developer
 
-I enjoy building practical software, exploring data, solving problems,
-and understanding how things work under the hood.
+Building projects, solving problems & learning something new every day.
 
-Currently working on **Data Science, Backend Development, DSA, and Compiler Design.**
+<br>
+
+<a href="https://github.com/nitinsheorann">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science — Data Science
-- 💻 Interested in **Data Science, Backend Development & Systems**
-- 🧠 Practicing **DSA and problem solving**
-- ⚙️ Building my own programming language **NovaLang**
-- 📊 Learning and building projects with **Machine Learning**
-- 🚀 Exploring **Spring Boot and modern backend development**
+- 🎓 B.Tech Computer Science student
+- 📊 Interested in **Data Science & Machine Learning**
+- 💻 Building applications with **Python, Java & C++**
+- ⚙️ Currently building **NovaLang**, my own compiler in C++
+- 🧩 Practicing **DSA & Problem Solving**
+- 🚀 Exploring **Spring Boot, Backend Development & LLM applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,sql" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🌐 Backend & Frameworks
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter` · `Kaggle`
+
+### 🌐 Development
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,nextjs,html,css,js" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### ⚙️ NovaLang — C++ Compiler
+<div align="center">
 
-My own programming language and compiler built from scratch in C++.
+<a href="YOUR_NOVALANG_REPO">
+<img src="https://img.shields.io/badge/⚙️_NovaLang-C%2B%2B-00599C?style=for-the-badge"/>
+</a>
 
-**Current architecture:**
+<a href="YOUR_IPO_REPO">
+<img src="https://img.shields.io/badge/📊_IPO_Prediction-Machine_Learning-F7931E?style=for-the-badge"/>
+</a>
 
-```text
-Source Code
-     ↓
-   Lexer
-     ↓
-  Tokens
-     ↓
-  Parser
-     ↓
-    AST
-     ↓
- Evaluation
+<a href="YOUR_BANK_REPO">
+<img src="https://img.shields.io/badge/🏦_Bank_Management-Python-3776AB?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<a href="YOUR_MUSIC_REPO">
+<img src="https://img.shields.io/badge/🎵_Java_Music_Player-Java-ED8B00?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_KISANFLOW_REPO">
+<img src="https://img.shields.io/badge/🌾_KisanFlow-Next.js-000000?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+## 🧩 Coding Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-130%2B-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-70%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-25%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LeetCode-50%20Day%20Badge-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-Rating%20853-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+`Machine Learning`  
+`Advanced DSA`  
+`Spring Boot`  
+`Compiler Design`  
+`Backend Development`  
+`LLM / RAG`
+
+</div>
+
+---
+
+## ⚙️ NovaLang
+
+<div align="center">
+
+### My C++ Compiler Project
+
+`Lexer` → `Parser` → `AST` → `Evaluation`
+
+<br>
+
+| Component | Status |
+|:---:|:---:|
+| 🔤 Lexer | ✅ |
+| 🧩 Parser | ✅ |
+| 🌳 AST | ✅ |
+| 🧮 Expressions | ✅ |
+| 🔢 Data Types | 🔨 |
+| 📦 Variables | 🔜 |
+| 🔀 if / else | 🔜 |
+| 🔁 Loops | 🔜 |
+| 🧠 Functions | 🔜 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinsheorann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsheorann&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nitinsheorann&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsheorann&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Solve. Repeat.
+
+<br>
+
+⭐ Thanks for visiting my profile!
+
+</div>
